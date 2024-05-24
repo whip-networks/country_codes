@@ -1,3 +1,9 @@
+## [3.1.0] - 14/05/2024
+* Adds `countryCode` property.
+
+## [3.0.0] - 13/05/2024
+* Adds Android namespace and other minor improvements.
+
 ## [2.2.0] - 10/05/2022
 
 * Upgrades to Android project (pre 1.12). Thank you @vergardan.
